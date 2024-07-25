@@ -1,2 +1,2 @@
-# Codecademy
-Repositório feito para armazenar os cursos do Codecademy.
+# Create a Back End App With JavaScript
+Repositório feito para armazenar o curso da Codecademy.

@@ -280,7 +280,7 @@ describe("getRoundWinner() - Main Functionality", function () {
   });
 });
 
-/*describe("getRoundWinner() - Edge Cases", function () {
+describe("getRoundWinner() - Edge Cases", function () {
   it("should return null for an invalid round number", function () {
     should.equal(getRoundWinner(4), null);
   });
@@ -406,7 +406,7 @@ describe("getGameWinner() - Main Functionality", function () {
   });
 });
 
-describe("BONUS: setComputerMoves()", function () {
+/*describe("BONUS: setComputerMoves()", function () {
   const validMoves = ["rock", "paper", "scissors"];
 
   afterEach(clearMoves);
